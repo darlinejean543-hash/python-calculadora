@@ -36,4 +36,4 @@ Aplicar conceptos de programación para desarrollar una solución que integre:
 
 Este proyecto permitió desarrollar conocimientos en programación, estructuras condicionales, control de flujo, validación de datos e integración de elementos de alerta en una aplicación.
 
-# Contraseña: 1234
+Para prueba configure una contraseña dentro del codigo.
